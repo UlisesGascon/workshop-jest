@@ -1,0 +1,38 @@
+{
+  "name": "workshop-jest",
+  "version": "1.0.0",
+  "description": "jest workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest  --verbose ./**/*.test.js",
+    "test:coverage": "jest --verbose ./**/*.test.js --coverage",
+    "test:watch": "jest --verbose ./**/*.test.js --watchAll",
+    "lint": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlisesGascon/workshop-jest.git"
+  },
+  "author": "Ulises Gascon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UlisesGascon/workshop-jest/issues"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ],
+    "ignore": [
+      "/docs/**/*.js"
+    ]
+  },
+  "homepage": "https://github.com/UlisesGascon/workshop-jest#readme",
+  "dependencies": {
+    "got": "^11.5.2",
+    "jest": "^26.4.2",
+    "jest-puppeteer": "^4.4.0",
+    "standard": "^14.3.4",
+    "uuid": "^8.3.0"
+  }
+}
