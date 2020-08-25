@@ -39,3 +39,8 @@ Npm Scripts
 
 - [Documentation](https://jestjs.io/docs/en/snapshot-testing)
 - [Samples](__test__/snapshots.test.js)
+
+### Mock Functions
+
+- [Documentation](https://jestjs.io/docs/en/mock-functions)
+- [Samples](__test__/mock_functions.test.js)
