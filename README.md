@@ -66,3 +66,10 @@ Npm Scripts
 - [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest)
 - [sapegin/jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet)
 - [kentcdodds/react-jest-workshop](https://github.com/kentcdodds/react-jest-workshop)
+
+### Videos
+- [Jest Architecture by Christoph Nakazawa](https://www.youtube.com/watch?v=3YDiloj8_d0&feature=emb_title)
+- [Test React applications using Enzyme & Jest by Ryan Walsh](https://www.youtube.com/watch?v=8Ww2QBVIw0I)
+- [Snapshot testing by Anna Doubkova](https://www.youtube.com/watch?v=sCbGfi40IWk)
+- [Establishing Testing Patterns with Software Design Principles by Aaron Abramov](https://www.youtube.com/watch?v=_pnW-JjmyXE)
+- [Jest Snapshots and Beyond by Rogelio Guzman](https://www.youtube.com/watch?v=HAuXJVI_bUs)
