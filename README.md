@@ -61,3 +61,8 @@ Npm Scripts
 - [Jest | ES6 Class Mocks](https://jestjs.io/docs/en/es6-class-mocks)
 - [Jest | Timer Mocks](https://jestjs.io/docs/en/timer-mocks)
 - [Jest | Testing React Apps](https://jestjs.io/docs/en/tutorial-react)
+
+### Resources
+- [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest)
+- [sapegin/jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet)
+- [kentcdodds/react-jest-workshop](https://github.com/kentcdodds/react-jest-workshop)
