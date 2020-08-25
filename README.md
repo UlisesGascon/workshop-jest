@@ -44,3 +44,8 @@ Npm Scripts
 
 - [Documentation](https://jestjs.io/docs/en/mock-functions)
 - [Samples](__test__/mock_functions.test.js)
+
+### Mocking Modules
+
+- [Documentation (partial)](https://jestjs.io/docs/en/manual-mocks)
+- [Samples](__test__/mocking_modules.test.js)
