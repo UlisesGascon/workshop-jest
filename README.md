@@ -18,3 +18,9 @@ Npm Scripts
 "test:coverage": "jest --verbose ./**/*.test.js --coverage",
 "test:watch": "jest --verbose ./**/*.test.js --watchAll",
 ```
+
+
+### Using Matchers
+
+- [Documentation](https://jestjs.io/docs/en/using-matchers)
+- [Samples](__test__/matchers.test.js)
