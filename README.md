@@ -24,3 +24,8 @@ Npm Scripts
 
 - [Documentation](https://jestjs.io/docs/en/using-matchers)
 - [Samples](__test__/matchers.test.js)
+
+### Testing Asynchronous Code
+
+- [Documentation](https://jestjs.io/docs/en/asynchronous)
+- [Samples](__test__/async_code.test.js)
