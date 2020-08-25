@@ -49,3 +49,15 @@ Npm Scripts
 
 - [Documentation (partial)](https://jestjs.io/docs/en/manual-mocks)
 - [Samples](__test__/mocking_modules.test.js)
+
+## Other
+
+### More Topics
+
+- [Jest | Using with puppeteer](https://jestjs.io/docs/en/puppeteer)
+- [Jest | Using with MongoDB](https://jestjs.io/docs/en/mongodb)
+- [Jest | Using with DynamoDB](https://jestjs.io/docs/en/mongodb)
+- [Jest | DOM Manipulation (JQuery)](https://jestjs.io/docs/en/tutorial-jquery)
+- [Jest | ES6 Class Mocks](https://jestjs.io/docs/en/es6-class-mocks)
+- [Jest | Timer Mocks](https://jestjs.io/docs/en/timer-mocks)
+- [Jest | Testing React Apps](https://jestjs.io/docs/en/tutorial-react)
