@@ -43,6 +43,7 @@ describe('Setup and Teardown', () => {
 
     test('San Juan doesn\'t pair with English Breakfast', () => {
       expect(isValidCityFoodPair('San Juan', 'English Breakfast')).toBe(false)
+      expect(isValidCityFoodPair('Madrid', 'English Breakfast')).toBe(false)
     })
   })
 })
