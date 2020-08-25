@@ -34,3 +34,8 @@ Npm Scripts
 
 - [Documentation](https://jestjs.io/docs/en/setup-teardown)
 - [Samples](__test__/setup_and_teardown.test.js)
+
+### Snapshot Testing
+
+- [Documentation](https://jestjs.io/docs/en/snapshot-testing)
+- [Samples](__test__/snapshots.test.js)
