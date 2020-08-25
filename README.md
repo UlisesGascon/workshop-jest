@@ -73,3 +73,12 @@ Npm Scripts
 - [Snapshot testing by Anna Doubkova](https://www.youtube.com/watch?v=sCbGfi40IWk)
 - [Establishing Testing Patterns with Software Design Principles by Aaron Abramov](https://www.youtube.com/watch?v=_pnW-JjmyXE)
 - [Jest Snapshots and Beyond by Rogelio Guzman](https://www.youtube.com/watch?v=HAuXJVI_bUs)
+
+### Tooling
+
+- [keplersj/jest-serializer-xml](https://github.com/keplersj/jest-serializer-xml)
+- [satya164/jest-file-snapshot](https://github.com/satya164/jest-file-snapshot)
+- [americanexpress/jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot)
+- [americanexpress/jest-json-schema](https://github.com/americanexpress/jest-json-schema)
+- [smooth-code/jest-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer)
+- [FormidableLabs/enzyme-matchers](https://github.com/FormidableLabs/enzyme-matchers/tree/master/packages/jest-enzyme)
