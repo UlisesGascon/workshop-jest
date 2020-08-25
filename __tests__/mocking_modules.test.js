@@ -1,4 +1,4 @@
-const { getFireballs } = require('../lib/nasa_firewalls')
+const { getFireballs } = require('../lib/nasa_fireballs')
 const { fields } = require('./fixtures/fireballs.json')
 const fixtureSignature = require('./fixtures/signature')
 const signatureGenerator = require('../lib/signature_generator')
